@@ -5,5 +5,6 @@ xhofe/alist:latest
 influxdb:1.8
 tdengine/tdengine:3.3.5.8
 quay.io/influxdb/influxdb3-core:latest
+grafana/grafana:11.5.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
