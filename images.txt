@@ -4,6 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 influxdb:1.8
 influxdb:1.11
+influxdb:2.7.11
 tdengine/tdengine:3.3.5.8
 quay.io/influxdb/influxdb3-core:latest
 grafana/grafana:11.5.2
