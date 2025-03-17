@@ -9,5 +9,6 @@ tdengine/tdengine:3.3.5.8
 quay.io/influxdb/influxdb3-core:latest
 grafana/grafana:11.5.2
 mikesplain/openvas:9
+tenable/nessus:10.8.3-ubuntu
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
