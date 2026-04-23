@@ -11,5 +11,6 @@ grafana/grafana:11.5.2
 mikesplain/openvas:9
 tenable/nessus:10.8.3-ubuntu
 mcr.microsoft.com/mssql/server:2022-latest
+questdb/questdb:9.3.5
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
