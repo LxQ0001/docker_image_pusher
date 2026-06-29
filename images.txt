@@ -12,7 +12,7 @@ mikesplain/openvas:9
 tenable/nessus:10.8.3-ubuntu
 mcr.microsoft.com/mssql/server:2022-latest
 questdb/questdb:9.3.5
-bitnami/kafka:latest
+apache/kafka:3.7.0
 clickhouse/clickhouse-server:24.3
 flink:1.18-scala_2.12
 #支持指定架构
